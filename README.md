@@ -279,7 +279,7 @@ Trips above average distance
 AI-SQL-Analytics-Assistant/
 │
 ├── notebooks/
-│   └── Demo.ipynb
+│   └── rag_powered_sql_analytics_assistant.ipynb
 │
 ├── data/
 │   └── yellow_tripdata_2024-07.parquet
@@ -288,7 +288,7 @@ AI-SQL-Analytics-Assistant/
 │
 ├── README.md
 │
-├── requirements.txt
+├── screenshots/
 │
 └── .gitignore
 ```
